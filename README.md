@@ -4,7 +4,7 @@
 <h2 align="center">Hi there i'am BADBOY 👏!</h2>
 
 <div align="center">
-<img src="https://discord.c99.nl/widget/theme-3/842103364179197962.png"/>
+<img src="https://discord.c99.nl/widget/theme-3/740181687874486324.png"/>
   <br/>
     <img src="https://komarev.com/ghpvc/?username=BADBOY671"/>
 </div>
@@ -21,10 +21,8 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 <img align="left" src="https://img.icons8.com/ultraviolet/40/000000/api-settings.png"/>
 <br/>
 <br/>
