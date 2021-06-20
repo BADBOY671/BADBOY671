@@ -26,7 +26,7 @@
 <img align="left" src="https://img.icons8.com/ultraviolet/40/000000/api-settings.png"/>
 <br/>
 <br/>
- <h1 align="center">MY GITHUB STATS 👨‍💻</h1>
+ <h2 align="center">MY GITHUB STATS 👨‍💻</h1>
   <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=BADBOY671&show_icons=true&theme=tokyonight"/>
 <br />
