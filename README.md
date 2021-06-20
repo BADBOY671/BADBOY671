@@ -2,7 +2,8 @@
 
 <h2 align="center">Hi Everyone I'm BadBoy</h2>
 
-<div align="https://discord.c99.nl/widget/theme-1/740181687874486324.png"/>
+  <img align="center" src="https://discord.c99.nl/widget/theme-1/740181687874486324.png"/> 
+
   <br/>
     <img src="https://komarev.com/ghpvc/?username=BADBOY671"/>
 </div>
