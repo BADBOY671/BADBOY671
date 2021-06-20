@@ -1,19 +1,19 @@
 
 
-
-<h2 align="center">Hi there i'am BADBOY 👏!</h2>
+<h2 align="center">Hi Everyone I'm BadBoy</h2>
 
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-3/740181687874486324.png"/>
   <br/>
     <img src="https://komarev.com/ghpvc/?username=BADBOY671"/>
 </div>
-<h1 align="center">ABOUT ME 🤔 ?</h1> 
+<h1 align="center">Info About Me🤔 ?</h1> 
 <h3>My Name is Mohammed Abumadi, My age is "15" i'am from Jerusalem. </h3>
 
 - A Simple FullStack JS Developer 😁
+- I Love Program So Mush 🤙
 
-<h1 id="skills" align="center">MY SKILLS🎓</h1> 
+<h1 id="skills" align="center">MY Languages And Library's🎓</h1> 
 
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/react-native.png"/>
