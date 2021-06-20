@@ -1,7 +1,5 @@
 
-<a href="https://github.com/XzeroDev"  target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/BADBOY671/BADBOY671/main/githubbanner.png"/> 
-</a>
+
 
 <h2 align="center">Hi there i'am BADBOY 👏!</h2>
 
