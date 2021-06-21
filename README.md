@@ -33,3 +33,10 @@
 <br />
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADBOY671&layout=compac&langs_count=8t&theme=tokyonight"/>
 </div>
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/shuruhatik/count.svg" />  
+</p>
