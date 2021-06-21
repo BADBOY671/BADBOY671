@@ -38,5 +38,5 @@
 </div>
     
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/shuruhatik/count.svg" />  
+  <img src="https://profile-counter.glitch.me/BADBOY671/count.svg" />  
 </p>
