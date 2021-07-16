@@ -10,7 +10,7 @@
 <h1 align="center">Info About Me🤔 ?</h1> 
 <h3>My Name is Mohammed Abumadi, My age is "15" i'am from Jerusalem. </h3>
 
-- A Simple FullStack JS Developer 😁
+- A Simple Developer 😁
 - I Love Program So Mush 🤙
 
 <h1 id="skills" align="center">MY Languages And Library's🎓</h1> 
