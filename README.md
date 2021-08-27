@@ -17,7 +17,6 @@
 
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/express.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3"/>
